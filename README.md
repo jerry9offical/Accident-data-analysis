@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard designed to explore and visualize UK road accident data. This project transforms complex datasets into meaningful insights to support road safety decisions and policy formulation.
 
-![Dashboard Preview](https://1drv.ms/i/c/b03951ccc4d9c425/EabEfqmG0-VIslA8PumrmycBy-8cEOCiku0th0PS04Gnzg?e=3f2rg3)
-
 ## 🔍 Overview
 
 This repository contains the MS Excel files and resources used to create a dynamic accident analysis dashboard for **CoreTech Lab**. The tool provides a centralized and visual means to:
