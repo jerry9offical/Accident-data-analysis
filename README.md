@@ -1,17 +1,12 @@
-# Accident-data-analysis
-This MS Excel dashboard visualizes UK road accident data to uncover critical insights into accident severity, location hotspots, timing trends, and environmental impacts. Designed to support decision-making for road safety initiatives, it integrates rich visual elements and interactivity to drive actionable conclusions from complex datasets.
-
 # 🚧 UK Road Accident Analysis Dashboard
 
 An interactive Power BI dashboard designed to explore and visualize UK road accident data. This project transforms complex datasets into meaningful insights to support road safety decisions and policy formulation.
 
-![Dashboard Preview](link-to-your-dashboard-screenshot.png)
-
----
+![Dashboard Preview](https://1drv.ms/i/c/b03951ccc4d9c425/EabEfqmG0-VIslA8PumrmycBy-8cEOCiku0th0PS04Gnzg?e=3f2rg3)
 
 ## 🔍 Overview
 
-This repository contains the Power BI files and resources used to create a dynamic accident analysis dashboard for **CoreTech Lab**. The tool provides a centralized and visual means to:
+This repository contains the MS Excel files and resources used to create a dynamic accident analysis dashboard for **CoreTech Lab**. The tool provides a centralized and visual means to:
 - Analyze accident severity across different zones.
 - Identify time and location hotspots.
 - Examine the influence of environmental factors like weather and speed.
@@ -59,9 +54,7 @@ The final dashboard:
 - `Screenshots/`: Dashboard preview images
 
  🔧 Tools & Technologies
-- Power BI
 - Power Query (for data cleaning)
-- DAX (for calculated columns & KPIs)
 - Excel (initial data exploration)
 
 💬 Feedback & Contribution
