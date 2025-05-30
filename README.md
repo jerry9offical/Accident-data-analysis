@@ -1,8 +1,8 @@
-# 🚧 UK Road Accident Analysis Dashboard
+#  UK Road Accident Analysis Dashboard
 
 An interactive Power BI dashboard designed to explore and visualize UK road accident data. This project transforms complex datasets into meaningful insights to support road safety decisions and policy formulation.
 
-## 🔍 Overview
+## Overview
 
 This repository contains the MS Excel files and resources used to create a dynamic accident analysis dashboard for **CoreTech Lab**. The tool provides a centralized and visual means to:
 - Analyze accident severity across different zones.
@@ -12,7 +12,7 @@ This repository contains the MS Excel files and resources used to create a dynam
 
 ---
 
-## 🧠 Project Approach – STAR Methodology
+##  Project Approach 
 
 ### **S – Situation**
 CoreTech Lab lacked a centralized system to visually analyze national accident data. With an increasing need to support road safety initiatives, there was a demand for a tool that could simplify accident trends and inform strategic decisions.
@@ -37,7 +37,7 @@ The final dashboard:
 - Informed the team’s outreach and policy discussions around road safety.
 - Showcased the power of visual storytelling using real-world data.
 
-## 📊 Key Features
+##  Key Features
 - Interactive slicers for custom filtering
 - Clean KPI section (total accidents, casualties, peak hours)
 - Geographic breakdown using maps
@@ -45,17 +45,17 @@ The final dashboard:
 - Charts showing monthly, daily, and hourly distribution
 - Vehicle type involvement and top speed correlation
 
-📁 Files in This Repository
+ Files in This Repository
 - `Accident_Analysis.pbix`: Power BI Dashboard File
 - `README.md`: This file
 - `Sample_Data.csv`: (Optional – include a sample dataset if allowed)
 - `Screenshots/`: Dashboard preview images
 
- 🔧 Tools & Technologies
+  Tools & Technologies
 - Power Query (for data cleaning)
 - Excel (initial data exploration)
 
-💬 Feedback & Contribution
+ Feedback & Contribution
 Feel free to raise issues, suggest enhancements, or fork the repo for your own analysis projects. Collaboration and feedback are always welcome!
 
 
